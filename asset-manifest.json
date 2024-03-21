@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/greenbite/static/css/main.1c1a9032.css",
+    "main.js": "/greenbite/static/js/main.02d5586d.js",
+    "static/media/link@2x.png": "/greenbite/static/media/link@2x.58d057fca861113d709b.png",
+    "index.html": "/greenbite/index.html",
+    "main.1c1a9032.css.map": "/greenbite/static/css/main.1c1a9032.css.map",
+    "main.02d5586d.js.map": "/greenbite/static/js/main.02d5586d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c1a9032.css",
+    "static/js/main.02d5586d.js"
+  ]
+}
